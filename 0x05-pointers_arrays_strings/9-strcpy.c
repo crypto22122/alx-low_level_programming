@@ -1,6 +1,7 @@
 #include "main.h"
+#include "_strlen.c"
 
-/*
+/**
  * char *_strcpy - copy str to src
  * @dest: string destination
  * @src: src directory
